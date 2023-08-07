@@ -1,5 +1,7 @@
 # 👋 Slipstream
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Needs to be replaced</p></figcaption></figure>
+
 ## What is Slipstream?
 
 Slipstream is a dynamic, and feature-rich open-source self-hosted media hosting platform, providing a range of functionalities for enhancing, organizing, and sharing video content - all of that under your control\

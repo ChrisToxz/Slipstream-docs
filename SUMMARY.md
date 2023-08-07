@@ -4,13 +4,13 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Our Features](overview/our-features.md)
+* [✨ Technologies](overview/technologies.md)
 
-## Product Guides
+## Installation
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Docker](installation/docker.md)
+* [📎 Manual installation](installation/manual-installation.md)
 
 ## Fundamentals
 
