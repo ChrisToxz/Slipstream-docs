@@ -2,27 +2,16 @@
 
 * [👋 Slipstream](README.md)
 
-## Overview
+## 🚀 Overview
 
 * [💡 Our Features](overview/our-features.md)
 * [✨ Technologies](overview/technologies.md)
 
-## Installation
+## 📄 Installation
 
 * [📪 Docker](installation/docker.md)
 * [📎 Manual installation](installation/manual-installation.md)
 
-## Fundamentals
+## 🏗 Contributing
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
-
-***
-
-* [Page 1](page-1.md)
+* [Setting up dev environment](contributing/setting-up-dev-environment.md)
